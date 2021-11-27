@@ -1,15 +1,15 @@
 # popka
 <html>
-    <img src="https://mars.algoritmika.org/uploads/2020/10/frog-159002_1280_0_1603798105.png" height="30px"/><a href="https://zoo61.ru/articles/10-luchshikh-domashnikh-reptiliy-dlya-vashego-terrariuma">Завести рептилию</a>
-    <h1 style="text-align:center; color:darkgreen;background-color:palegreen;fonpxt-size;50">Экзотический</h1>
-    <h1 style="text-align:center; color:darkblue; background-color:palegreen;fonpxt-size;50">зоопарк</h1>
-    <p style="font-size:20px">Приглашаем посетить наш зоопарк, чтобы увидеть редких змей, ящериц, пауков и африканских ежей и многих других животных.</p>
-    <p style="text-align:center; color:blue">Цена билета: 200 рублей — детский, 400 рублей — взрослый, фото с животным — 1000 рублей.</p>
-    <p>Пожалуйста, не стучите по террариумам — это пугает животных, и не приносите для животных еду — у каждого вида своя диета.</p>
-    <p>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/frog-46397_1280_0_1603917437.png" height="90px"/>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/snake-46151_1280_0_1603917437.png" height="90px"/>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/spider-150051_1280_0_1603917437.png" height="90px"/>
-    </p>
-    <p>Адрес: город Зверинск, ул. Зелёная, 15</p>
+    <body>
+        <h1 style="text-align:center;color:">Пицца</h1>
+        <p> <b>Рецепт</b> вкусной <b>пиццы</b> - для вкусной пиццы понадобится не очень много продуктов. </p>
+        <p>Первый этап это тесто. Тесто сделать очень легко, если следовать инструкции:</p><p><b> Мука</b> - 150 г (1 стакан 250 мл)
+<b>Дрожжи сухие</b> - 3 г
+<b>Вода</b> - 80 мл
+<b>Масло подсолнечное или оливковое</b> - 1 ст. ложка
+<b>Соль</b> - 0,25 ч. ложки
+<b>Сахар</b> - 0,5 ч. ложки
+<img src="https://eda.ru/img/eda/c620x415/s1.eda.ru/StaticContent/Photos/120131085053/171027192707/p_O.jpg"width="228px"height="139px"/>
+</p>
+</body>
 </html>
